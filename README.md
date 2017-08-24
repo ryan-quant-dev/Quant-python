@@ -1,6 +1,6 @@
 # Quant-python
 
-##introduction
+## Introduction
 This project is a collection of short python programs I wrote during bootcamp
 
 ## Python basics
